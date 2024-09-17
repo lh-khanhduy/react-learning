@@ -1,4 +1,4 @@
-import profilePic from './assets/Plague Doctor.jpg';
+import profilePic from '../assets/Plague Doctor.jpg';
 
 function Card() {
 	return (
