@@ -2,7 +2,7 @@ import Header from './components/Header.jsx';
 import Footer from './components/Footer.jsx';
 import Card from './components/Card.jsx';
 import List from './components/List.jsx';
-import PracUpdateOnArrayObjects from './components/PracUpdateOnArrayObjects.jsx';
+import ComponentA from './components/ComponentA.jsx';
 
 function App() {
 	const weapons = [
@@ -23,7 +23,7 @@ function App() {
 
 	return (
 		<>
-			<PracUpdateOnArrayObjects />
+			<ComponentA />
 
 			<Header />
 			<Card />
